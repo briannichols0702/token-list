@@ -1,5 +1,5 @@
 {
-  "name": "BeanSwap Default List",
+  "name": "wbescSwap Default List",
   "timestamp": "2021-05-06T00:00:00Z",
   "version": {
     "major": 3,
@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://wbescswap.com/logo.png",
+  "logoURI": "images/logo.png",
   "keywords": ["pancake", "default"],
   "tokens": [
     {
@@ -16,7 +16,7 @@
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://wbescswap.com/images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+      "logoURI": "images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
     },
     {
       "name": "WBESC Token",
@@ -24,7 +24,7 @@
       "address": "0x45df6533f2c874027cf1Cd6275823e34dBdE906d",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://wbescswap.com/images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+      "logoURI": "images/tokens/0x45df6533f2c874027cf1Cd6275823e34dBdE906d.png"
     },
     {
       "name": "BUSD Token",
@@ -32,7 +32,7 @@
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://wbescswap.com/images/tokens/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+      "logoURI": "images/tokens/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
     },
     {
       "name": "USDC Token",
@@ -40,7 +40,7 @@
       "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://wbescswap.com/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+      "logoURI": "images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
     },
     {
       "name": "Tether USD",
@@ -48,8 +48,15 @@
       "address": "0x55d398326f99059fF775485246999027B3197955",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://wbescswap.com/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
+      "logoURI": "images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "MONEY",
+      "symbol": "MONEY",
+      "address": "0x4fFe5ec4D8B9822e01c9E49678884bAEc17F60D9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "images/tokens/0x4fFe5ec4D8B9822e01c9E49678884bAEc17F60D9.png"
     }
   ]
 }
-
